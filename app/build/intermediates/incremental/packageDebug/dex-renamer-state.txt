@@ -1,0 +1,7 @@
+#Mon Jul 03 23:58:45 IST 2017
+base.0=C\:\\AndroidProjects\\BT4LEDTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_44ccc530fe90bcee1b988d6aa4f3f94351cbd33f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\AndroidProjects\\BT4LEDTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7780b6acf95a46895e48ea9f201b376272d407d4\\classes.dex
+base.1=C\:\\AndroidProjects\\BT4LEDTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7780b6acf95a46895e48ea9f201b376272d407d4
+file.0=C\:\\AndroidProjects\\BT4LEDTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_44ccc530fe90bcee1b988d6aa4f3f94351cbd33f\\classes.dex

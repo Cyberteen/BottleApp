@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:16:1-63:12
+	package
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:17:5-42
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\nick_\.android\build-cache\c65985d65f6d2588abdfaab1e32f5e620a14eb8e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\nick_\.android\build-cache\65689d55214254d02a9893eae3b87aa564f58fa1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\nick_\.android\build-cache\30b246cce97262a8b0c0062d77656d284e9a1d8a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\nick_\.android\build-cache\f3abbcfbf565223917c1ed6b031038e210d60c69\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\nick_\.android\build-cache\26a25b499a92997ef7010accfe2512045cd286ce\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\nick_\.android\build-cache\9bbe38325a6a651df12f4f7625c4f3954bdbebf1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\nick_\.android\build-cache\9cb9bc4040c57ed50a190deea25bf0f053dbdccc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\nick_\.android\build-cache\412ad2571de585596c5e76c7a0f6987d31860173\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\nick_\.android\build-cache\5c319302ee2310c60e64c3f10baa9b2fefbb3053\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\nick_\.android\build-cache\d25b7b49401ed7d3a9b5bd1a62f10eee36a0acb1\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\nick_\.android\build-cache\e0e38f84431f6ff7c663ab78225bf7ffe339642e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nick_\.android\build-cache\4b7ed8e355212e20b431b4d035e4dc8ced5976fa\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\nick_\.android\build-cache\412ad2571de585596c5e76c7a0f6987d31860173\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:30:5-32:35
+	android:required
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:31:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:35:22-71
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:37:5-89
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:37:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:38:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:39:5-88
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:39:30-85
+application
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:41:5-61:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\nick_\.android\build-cache\c65985d65f6d2588abdfaab1e32f5e620a14eb8e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\nick_\.android\build-cache\65689d55214254d02a9893eae3b87aa564f58fa1\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\nick_\.android\build-cache\30b246cce97262a8b0c0062d77656d284e9a1d8a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\nick_\.android\build-cache\f3abbcfbf565223917c1ed6b031038e210d60c69\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\nick_\.android\build-cache\26a25b499a92997ef7010accfe2512045cd286ce\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\nick_\.android\build-cache\9bbe38325a6a651df12f4f7625c4f3954bdbebf1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\nick_\.android\build-cache\412ad2571de585596c5e76c7a0f6987d31860173\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\nick_\.android\build-cache\5c319302ee2310c60e64c3f10baa9b2fefbb3053\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\nick_\.android\build-cache\d25b7b49401ed7d3a9b5bd1a62f10eee36a0acb1\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\nick_\.android\build-cache\e0e38f84431f6ff7c663ab78225bf7ffe339642e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nick_\.android\build-cache\4b7ed8e355212e20b431b4d035e4dc8ced5976fa\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:43:9-41
+	android:icon
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:42:9-45
+	android:theme
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:44:9-56
+activity#com.polkapolka.bluetooth.le.DeviceScanActivity
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:46:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:51:27-74
+activity#com.polkapolka.bluetooth.le.DeviceControlActivity
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:54:9-59
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:54:19-56
+service#com.polkapolka.bluetooth.le.BluetoothLeService
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:56:9-58:38
+	android:enabled
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:58:13-35
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:57:13-47
+activity#com.polkapolka.bluetooth.le.bottleActivity
+ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:60:9-61
+	android:name
+		ADDED from C:\AndroidProjects\BT4LEDTest\app\src\main\AndroidManifest.xml:60:19-49
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\nick_\.android\build-cache\30b246cce97262a8b0c0062d77656d284e9a1d8a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\nick_\.android\build-cache\30b246cce97262a8b0c0062d77656d284e9a1d8a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\nick_\.android\build-cache\30b246cce97262a8b0c0062d77656d284e9a1d8a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\nick_\.android\build-cache\30b246cce97262a8b0c0062d77656d284e9a1d8a\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\nick_\.android\build-cache\26a25b499a92997ef7010accfe2512045cd286ce\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\nick_\.android\build-cache\26a25b499a92997ef7010accfe2512045cd286ce\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\nick_\.android\build-cache\26a25b499a92997ef7010accfe2512045cd286ce\output\AndroidManifest.xml:20:20-65

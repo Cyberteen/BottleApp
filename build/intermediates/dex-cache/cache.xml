@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\f3abbcfbf565223917c1ed6b031038e210d60c69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ad09fef3ee086b2916851a923f47c5105f9cf1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_caab4f08ce5e946c7639a1ae04a92cd75edf5b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_dbaffd1c8608c97bd19204fbbd30d88054d08381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\e0e38f84431f6ff7c663ab78225bf7ffe339642e\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_bca853472b32df207b27a731a5742a8d47c68767\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\65689d55214254d02a9893eae3b87aa564f58fa1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51981be995c28f7f743246e908e36b79a19242de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\412ad2571de585596c5e76c7a0f6987d31860173\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f90407c93c41e67a73960e045dc543bb97c2c129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\26a25b499a92997ef7010accfe2512045cd286ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f362245430ad78086b3341ec7e96a9e1c29943a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7780b6acf95a46895e48ea9f201b376272d407d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\30b246cce97262a8b0c0062d77656d284e9a1d8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0b96ad066122ee4adfed40c43651aecf11268f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\9bbe38325a6a651df12f4f7625c4f3954bdbebf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2e0d686ff2a2acc84294688173bcfc09da2c3a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\5c319302ee2310c60e64c3f10baa9b2fefbb3053\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a443683c99507459f768fd29acd09003844eb4f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\d25b7b49401ed7d3a9b5bd1a62f10eee36a0acb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_213ac1b07615ce2b45472bf7f1c6ce9b01d51d29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\9cb9bc4040c57ed50a190deea25bf0f053dbdccc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2ed24c6da2f4452461f152c0f4d8a59ce5ab8b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\4b7ed8e355212e20b431b4d035e4dc8ced5976fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96e19ee4ee70623cb88c434c0b99fdaf61012e85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\e0e38f84431f6ff7c663ab78225bf7ffe339642e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08967d39c4b394daa1b40853cb040cf3fb5be744\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a30aac9d6bb0859386376048151c63bbfa30150">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_44ccc530fe90bcee1b988d6aa4f3f94351cbd33f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nick_\.android\build-cache\c65985d65f6d2588abdfaab1e32f5e620a14eb8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="C:\AndroidProjects\BT4LEDTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6986d3f3cb0322bd50fc3d2ec6e21d62eadd51f\classes.dex" />
+    </item>
+
+</items>
